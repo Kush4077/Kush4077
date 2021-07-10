@@ -1,4 +1,4 @@
-### Hi there 👋
+### Heyy there 👋
 - 🔭 I’m currently working on a messaging app
 - 🌱 I’m currently learning HTML CSS JS
 - 🤔 I’m looking for help with JavaScript
