@@ -7,6 +7,9 @@
 
 ![counter](https://ent3iam7i9zc84p.m.pipedream.net/)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kushhhh-sh)](https://github.com/kushhhh-sh/github-readme-stats)
+
+
 <!-- <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushhhh-sh&show_icons=true&locale=en&layout=compact" alt="mostusedlang" />
 </p>
