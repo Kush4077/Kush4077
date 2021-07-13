@@ -5,6 +5,7 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: agarwalkushajay@gmail.com
 
+![counter](https://ent3iam7i9zc84p.m.pipedream.net/)
 <!--
 **Kush4077/Kush4077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
