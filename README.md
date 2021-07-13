@@ -5,7 +5,7 @@
 - 💬 Ask me about Web Development
 - 📫 How to reach me: agarwalkushajay@gmail.com
 
-![counter](https://ent3iam7i9zc84p.m.pipedream.net/)
+![counter](https://komarev.com/ghpvc/?username=kushhhh-sh&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Kush's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=kushhhh-sh&show_icons=true&locale=en&theme=react)](https://github.com/kushhhh-sh/github-readme-stats)
 
