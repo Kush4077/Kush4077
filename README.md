@@ -10,6 +10,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushhhh-sh&show_icons=true&locale=en&layout=compact" alt="mostusedlang" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kushhhh-sh&show_icons=true&locale=en" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushhhh-sh&" alt="quantumbytestudios" />
 <!--
 **Kush4077/Kush4077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
