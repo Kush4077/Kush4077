@@ -1,5 +1,5 @@
 ### Heyy there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-- 🔭 I’m currently working on a messaging app
+- 🔭 I’m currently working on a Web Operating System
 - 🌱 I’m currently learning HTML CSS JS
 - 🤔 I’m looking for help with JavaScript
 - 💬 Ask me about Web Development
