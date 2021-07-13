@@ -7,9 +7,9 @@
 
 ![counter](https://ent3iam7i9zc84p.m.pipedream.net/)
 
-[![Kush's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=kushhhh-sh&show_icons=true&locale=en&layout=compact)](https://github.com/kushhhh-sh/github-readme-stats)
+[![Kush's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=kushhhh-sh&show_icons=true&locale=en&theme=react)](https://github.com/kushhhh-sh/github-readme-stats)
 
-[![Kush's github stats](https://github-readme-stats.vercel.app/api?username=kushhhh-sh)](https://github.com/kushhhh-sh/github-readme-stats)
+[![Kush's github stats](https://github-readme-stats.vercel.app/api?username=kushhhh-sh&theme=blue-green)](https://github.com/kushhhh-sh/github-readme-stats)
 
 [![Kush's github stats](https://github-readme-streak-stats.herokuapp.com/?user=kushhhh-sh&)](https://github.com/kushhhh-sh/github-readme-stats)
 
