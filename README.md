@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Windows 11 on web browser](https://Kushhhh-sh.github.io/Win-11/)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **HTML and CSS**
 
